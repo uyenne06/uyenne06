@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hoanguyen--portfolio.vercel.app-E8A0BF?style=flat-square&logo=googlechrome&logoColor=E8A0BF&labelColor=1F1420)](https://hoanguyen-portfolio.vercel.app)&ensp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-hoanguyen--portfolio.vercel.app-E8A0BF?style=flat-square&logo=aboutdotme&logoColor=E8A0BF&labelColor=1F1420)](https://hoanguyen-portfolio.vercel.app)&ensp;
 [![GitHub](https://img.shields.io/badge/GitHub-uyenne06-E8A0BF?style=flat-square&logo=github&logoColor=E8A0BF&labelColor=1F1420)](https://github.com/uyenne06)&ensp;
 [![Instagram](https://img.shields.io/badge/Instagram-_eunice.u-E8A0BF?style=flat-square&logo=instagram&logoColor=E8A0BF&labelColor=1F1420)](https://www.instagram.com/_eunice.u)&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-hoang.uyen-E8A0BF?style=flat-square&logo=facebook&logoColor=E8A0BF&labelColor=1F1420)](https://www.facebook.com/hoang.uyen.723746)
