@@ -84,7 +84,7 @@ Building the frontend of the company's construction-intelligence product in a re
 | | Role | Organization | Note |
 |:---|:---|:---|:---|
 | **Frontend Developer Intern** | Software Engineering | [VNZ Company · vnzdna technology](https://github.com/TaskCoper) | BMT AI Construction · Next.js product team |
-| **Team Member** | Team Organization | [HKBDU](https://github.com/HKBDU) | Pegaxus · Meetly · SmartHome IoT · OCR <!-- TODO: ghi rõ vai trò của Uyên trong HKBDU --> |
+| **Team Member** | Team Organization | [HKBDU](https://github.com/HKBDU) | Pegaxus · Meetly |
 | **Frontend Developer** | Team Project | SAVICO AI | AI-powered construction planning interface · Preview deployment |
 | **Student** | B.Sc. Software Engineering | FPT University · Ho Chi Minh City | In Progress |
 
@@ -100,10 +100,6 @@ Building the frontend of the company's construction-intelligence product in a re
 
 - **[Pegaxus](https://github.com/HKBDU/pegaxus-fe)** · `React 19` `TypeScript` `Vite` `TanStack Query` `MapLibre GL`: SWP391 project, a **cross-border racehorse logistics platform** combining transport booking, route planning, compliance documentation and billing. The frontend covers a customer portal (horse profiles, bookings, status history), transport planning with primary / contingency / return routes on interactive maps, a compliance workflow for dossiers, quarantine and customs evidence, and role-based account and invoice management.
 - **[Meetly](https://github.com/HKBDU/Meetly)** · `React` `TypeScript` `Tailwind CSS` `SignalR`: Real-time group scheduling app inspired by When2meet. Organizers share a poll link, participants paint their availability on a drag-to-select grid, and a **live heatmap** updated over WebSockets highlights the best slots — no sign-up needed.
-- **[SmartHome IoT](https://github.com/HKBDU/SmartHome_IOT)** · `ESP32` `JavaScript` `Firebase`: Smart home system with sensor monitoring (temperature, humidity, light, air quality), remote relay control and scheduling, RFID / keypad / PIR security with alarm modes, and access logs — all managed from a web dashboard synced through Firebase Realtime Database.
-- **[OCR Testing](https://github.com/HKBDU/Optical-Character-Recognition-Testing)** · `Python`: Experiments with Optical Character Recognition on images, scanned documents and PDFs.
-
-<!-- TODO: chỉ giữ những dự án Uyên thực sự tham gia, và ghi phần Uyên làm -->
 
 ### Product Work
 
