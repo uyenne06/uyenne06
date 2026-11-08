@@ -58,7 +58,7 @@ I care about the details users notice: spacing, states, theming, localization �
 ## Experience
 
 **Frontend Developer Intern** · [VNZ Company (vnzdna technology)](https://github.com/TaskCoper)<br/>
-`06/2025 – Present` · Ho Chi Minh City <!-- TODO: kiểm tra lại năm bắt đầu (2025 hay 2026) -->
+`06/2026 – Present` · Ho Chi Minh City
 
 Building the frontend of the company's construction-intelligence product in a real product team, from UI implementation and API integration to code review and release.
 
