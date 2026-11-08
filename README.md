@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hoanguyen--portfolio.vercel.app-E8A0BF?style=flat-square&logo=aboutdotme&logoColor=E8A0BF&labelColor=1F1420)](https://hoanguyen-portfolio.vercel.app)&ensp;
 [![GitHub](https://img.shields.io/badge/GitHub-uyenne06-E8A0BF?style=flat-square&logo=github&logoColor=E8A0BF&labelColor=1F1420)](https://github.com/uyenne06)&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoang_Uyen-E8A0BF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0U4QTBCRiI+PHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC00IDB2N2gtNHYtN2E2IDYgMCAwIDEgNi02eiIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiB4PSIyIiB5PSI5Ii8+PGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiLz48L3N2Zz4=&labelColor=1F1420)](https://www.linkedin.com/in/nguy%E1%BB%85n-hu%E1%BB%B3nh-ho%C3%A0ng-uy%C3%AAn-7472b5353/)&ensp;
 [![Instagram](https://img.shields.io/badge/Instagram-_eunice.u-E8A0BF?style=flat-square&logo=instagram&logoColor=E8A0BF&labelColor=1F1420)](https://www.instagram.com/_eunice.u)&ensp;
 [![Facebook](https://img.shields.io/badge/Facebook-hoang.uyen-E8A0BF?style=flat-square&logo=facebook&logoColor=E8A0BF&labelColor=1F1420)](https://www.facebook.com/hoang.uyen.723746)
 <!-- TODO: thêm LinkedIn / Email nếu có -->
