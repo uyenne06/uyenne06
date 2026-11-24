@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1420,50:4A2338,100:B4637F&height=250&section=header&text=Nguyen%20Huynh%20Hoang%20Uyen&fontSize=46&fontColor=FBE4EE&fontAlignY=38&desc=Frontend%20Developer%20%20%7C%20%20Software%20Engineering%20Student%20at%20FPT%20University&descSize=15&descFontColor=F2C6D8&descAlignY=58&animation=fadeIn" width="100%"/>
 
